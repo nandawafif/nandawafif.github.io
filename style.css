@@ -1,0 +1,52 @@
+p {
+	font-family: courier new;
+	font-size:21px;
+	font-weight: bold;
+	text-align: center;
+	color: navy;
+}
+
+h1 {
+	font-family: georgia;
+	font-size:45px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+}
+
+h2 {
+	font-family: georgia;
+	font-weight: bold;
+	color: black;
+	text-align: left;
+}
+
+ul {
+	font-family: courier new;
+	font-size:21px;
+	font-weight: bold;
+	color: #3c6238;
+}
+
+body {
+	font-family: courier new;
+	font-weight: bold;
+	font-size:21px;
+}
+
+img {
+  border-radius: 50%;
+  vertical-align: middle;
+  height:250px;
+  width:250px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html {
+	background-image: url("website_background.jpeg")
+}
